@@ -28,8 +28,8 @@ namespace ResponsiPemrograman4352
             Console.WriteLine("2. {0} {1}\t\t{2}", karyawans.Nik, karyawans.Nama, karyawans.GajiBulanan);
             Console.WriteLine();
             Console.WriteLine("Asyiiiiik kenaikan gaji 10% dong");
-            Console.WriteLine("1. {0} {1}\t\t{2}", karyawan.Nik, karyawan.Nama + (karyawan.GajiBulanan * 0.10));
-            Console.WriteLine("2. {0} {1}\t\t{2}", karyawans.Nik, karyawans.Nama + (karyawans.GajiBulanan * 0.10));
+            Console.WriteLine("1. {0} {1}\t\t{2}", karyawan.Nik, karyawan.Nama, karyawan.GajiBulanan + (karyawan.GajiBulanan * 0.10));
+            Console.WriteLine("2. {0} {1}\t\t{2}", karyawans.Nik, karyawans.Nama, karyawans.GajiBulanan + (karyawans.GajiBulanan * 0.10));
             Console.ReadKey();
         }
     }
