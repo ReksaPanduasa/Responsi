@@ -1,0 +1,6 @@
+D:\Semester 2\Tugas Kuliah\Pemrograman (Praktikum)\Pertemuan 5\ResponsiPemrograman4352\ResponsiPemrograman4352\bin\Debug\ResponsiPemrograman4352.exe.config
+D:\Semester 2\Tugas Kuliah\Pemrograman (Praktikum)\Pertemuan 5\ResponsiPemrograman4352\ResponsiPemrograman4352\bin\Debug\ResponsiPemrograman4352.exe
+D:\Semester 2\Tugas Kuliah\Pemrograman (Praktikum)\Pertemuan 5\ResponsiPemrograman4352\ResponsiPemrograman4352\bin\Debug\ResponsiPemrograman4352.pdb
+D:\Semester 2\Tugas Kuliah\Pemrograman (Praktikum)\Pertemuan 5\ResponsiPemrograman4352\ResponsiPemrograman4352\obj\Debug\ResponsiPemrograman4352.csprojResolveAssemblyReference.cache
+D:\Semester 2\Tugas Kuliah\Pemrograman (Praktikum)\Pertemuan 5\ResponsiPemrograman4352\ResponsiPemrograman4352\obj\Debug\ResponsiPemrograman4352.exe
+D:\Semester 2\Tugas Kuliah\Pemrograman (Praktikum)\Pertemuan 5\ResponsiPemrograman4352\ResponsiPemrograman4352\obj\Debug\ResponsiPemrograman4352.pdb
